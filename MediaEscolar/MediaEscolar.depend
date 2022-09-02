@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1662161375 source:c:\users\uchih\documents\programacao em c\mediaescolar\main.c
+	<stdio.h>
+	<stdlib.h>
+

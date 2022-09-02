@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1661999700 source:c:\users\uchih\documents\programacao em c\analisandonumeros\main.c
+	<stdio.h>
+	<stdlib.h>
+
