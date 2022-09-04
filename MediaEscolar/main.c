@@ -18,7 +18,7 @@ int main()
     average = (n1 + n2 + n3) / 3;
 
     if(average >= 9.7){
-        printf("Student approved \n A+", average);
+        printf("Student approved \n A+");
     }else if(average >= 9.3)
     {
         printf("Student approved \n A-");

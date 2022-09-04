@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1662305087 source:c:\users\uchih\documents\programacaoemc\classaveragenote\main.c
+	<stdio.h>
+	<stdlib.h>
+
