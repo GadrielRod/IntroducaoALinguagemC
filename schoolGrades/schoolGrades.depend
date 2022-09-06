@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1662392712 source:c:\users\uchih\documents\programacaoemc\schoolgrades\main.c
+	<stdio.h>
+	<stdlib.h>
+
