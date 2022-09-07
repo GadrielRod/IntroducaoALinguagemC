@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1662479712 source:c:\users\uchih\documents\programacaoemc\dowhile\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
